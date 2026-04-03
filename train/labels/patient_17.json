@@ -1,0 +1,575 @@
+{
+  "patient_id": "patient_17",
+  "conditions": [
+    {
+      "condition_name": "COVID-19 infection",
+      "category": "infectious",
+      "subcategory": "viral",
+      "status": "resolved",
+      "onset": "24 September 2021",
+      "evidence": [
+        {
+          "note_id": "text_0",
+          "line_no": 7,
+          "span": "ARDS in the context of a COVID-19 infection"
+        },
+        {
+          "note_id": "text_0",
+          "line_no": 29,
+          "span": "COVID-typical infiltrates"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 6,
+          "span": "ARDS due to COVID-19 pneumonia"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 25,
+          "span": "confirmed SARS-CoV-2 infection"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 9,
+          "span": "COVID-19 with severe ARDS"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 14,
+          "span": "Initial detection of SARS-CoV-2 on 09/28/2021 in nasopharyngeal swab"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 50,
+          "span": "COVID-19 pneumonia"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 8,
+          "span": "COVID-19 with severe ARDS"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 13,
+          "span": "Initial detection of SARS-CoV-2 on 09/28/2021 in nasopharyngeal swab"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 60,
+          "span": "positive SARS-CoV-2 RNA PCR test in the naso-oropharyngeal swab"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 15,
+          "span": "COVID-19 with severe ARDS"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 21,
+          "span": "Initial detection of SARS-CoV-2 on 09/28/2021 in nasopharyngeal swab"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 58,
+          "span": "treated in the intensive care unit for a total of 24 days in September and October 2021 due to COVID-19"
+        }
+      ]
+    },
+    {
+      "condition_name": "Acute respiratory distress syndrome (ARDS)",
+      "category": "pulmonary",
+      "subcategory": "acute_respiratory",
+      "status": "resolved",
+      "onset": "28 September 2021",
+      "evidence": [
+        {
+          "note_id": "text_0",
+          "line_no": 7,
+          "span": "ARDS in the context of a COVID-19 infection"
+        },
+        {
+          "note_id": "text_0",
+          "line_no": 25,
+          "span": "initial room air saturation was 78%"
+        },
+        {
+          "note_id": "text_0",
+          "line_no": 28,
+          "span": "bilateral interstitial pneumonia with COVID-typical infiltrates"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 6,
+          "span": "ARDS due to COVID-19 pneumonia"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 34,
+          "span": "conservative ARDS therapy was initiated, including positioning therapy"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 9,
+          "span": "COVID-19 with severe ARDS"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 92,
+          "span": "conservative ARDS therapy, including positioning therapy"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 8,
+          "span": "COVID-19 with severe ARDS"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 134,
+          "span": "conservative ARDS therapy, including positional changes"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 15,
+          "span": "COVID-19 with severe ARDS"
+        }
+      ]
+    },
+    {
+      "condition_name": "Pulmonary aspergillosis (Aspergillus fumigatus)",
+      "category": "infectious",
+      "subcategory": "fungal",
+      "status": "resolved",
+      "onset": "7 October 2021",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 7,
+          "span": "superinfection by Aspergillus fumigatus"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 48,
+          "span": "detection of Aspergillus in tracheobronchial secretions"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 22,
+          "span": "Pulmonary superinfection with detection of Aspergillus fumigatus"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 99,
+          "span": "detection of Aspergillus in tracheobronchial secretions and BAL"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 23,
+          "span": "Pulmonary superinfection with detection of Aspergillus fumigatus"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 71,
+          "span": "detection of Aspergillus fumigatus in bronchoalveolar lavage"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 138,
+          "span": "detection of Aspergillus in tracheobronchial secretions and BAL"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 31,
+          "span": "Pulmonary superinfection with detection of Aspergillus fumigatus"
+        }
+      ]
+    },
+    {
+      "condition_name": "Staphylococcus aureus bacteremia",
+      "category": "infectious",
+      "subcategory": "bacterial",
+      "status": "resolved",
+      "onset": "19 October 2021",
+      "evidence": [
+        {
+          "note_id": "text_2",
+          "line_no": 26,
+          "span": "Bacteremia with detection of Staphylococcus aureus in blood culture on 10/19/21"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 128,
+          "span": "Staphylococcus aureus was detected in blood culture"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 27,
+          "span": "Bacteremia with detection of Staphylococcus aureus in blood culture on 10/19/21"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 74,
+          "span": "Staph. aureus was identified in a blood culture"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 395,
+          "span": "Staphylococcus aureus was detected in a blood culture"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 409,
+          "span": "antibiotic therapy with Cefazolin was continued until 11/05/2021"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 35,
+          "span": "Bacteremia with detection of Staphylococcus aureus in blood culture on 10/19/21"
+        }
+      ]
+    },
+    {
+      "condition_name": "Staphylococcus epidermidis catheter-associated infection",
+      "category": "infectious",
+      "subcategory": "bacterial",
+      "status": "resolved",
+      "onset": "20 October 2021",
+      "evidence": [
+        {
+          "note_id": "text_3",
+          "line_no": 75,
+          "span": "Staph. epidermidis"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 410,
+          "span": "Staphylococcus epidermidis detected in the blood culture on 10/20/21 and at the tip of the central venous catheter on 10/22/21 were considered catheter-associated"
+        }
+      ]
+    },
+    {
+      "condition_name": "Thrombophlebitis of the right forearm",
+      "category": "cardiovascular",
+      "subcategory": "inflammatory_vascular",
+      "status": "resolved",
+      "onset": "October 2021",
+      "evidence": [
+        {
+          "note_id": "text_2",
+          "line_no": 31,
+          "span": "Thrombophlebitis of the right forearm"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 32,
+          "span": "Thrombophlebitis of the right forearm"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 40,
+          "span": "Thrombophlebitis of the right forearm"
+        }
+      ]
+    },
+    {
+      "condition_name": "Rheumatoid arthritis",
+      "category": "immunological",
+      "subcategory": "autoimmune",
+      "status": "active",
+      "onset": "September 2021",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 14,
+          "span": "Rheumatoid arthritis"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 38,
+          "span": "Rheumatoid arthritis"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 105,
+          "span": "immunosuppressive therapy with Methotrexate and Prednisolone for rheumatoid arthritis"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 39,
+          "span": "Rheumatoid arthritis"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 57,
+          "span": "heavily affected by rheumatoid arthritis"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 85,
+          "span": "known history of rheumatoid arthritis, which was treated on an outpatient basis with Methotrexate and Prednisolone"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 47,
+          "span": "Rheumatoid arthritis"
+        }
+      ]
+    },
+    {
+      "condition_name": "Uveitis",
+      "category": "immunological",
+      "subcategory": "autoimmune",
+      "status": "active",
+      "onset": "September 2021",
+      "evidence": [
+        {
+          "note_id": "text_0",
+          "line_no": 14,
+          "span": "Uveitis"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 16,
+          "span": "Uveitis"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 43,
+          "span": "Methotrexate and Prednisolone for uveitis"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 40,
+          "span": "Uveitis"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 41,
+          "span": "Uveitis"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 325,
+          "span": "Uveitis/scleritis/episcleritis managed with 10mg MTX per week and 5 mg p"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 49,
+          "span": "Uveitis"
+        }
+      ]
+    },
+    {
+      "condition_name": "Bronchial asthma",
+      "category": "pulmonary",
+      "subcategory": "obstructive",
+      "status": "active",
+      "onset": "September 2021",
+      "evidence": [
+        {
+          "note_id": "text_0",
+          "line_no": 16,
+          "span": "Bronchial asthma"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 18,
+          "span": "Bronchial asthma"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 42,
+          "span": "Bronchial asthma"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 43,
+          "span": "Bronchial asthma"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 51,
+          "span": "Bronchial asthma"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 75,
+          "span": "significant expiratory wheezing and prolonged expiration bilaterally"
+        }
+      ]
+    },
+    {
+      "condition_name": "Arterial hypertension",
+      "category": "cardiovascular",
+      "subcategory": "hypertensive",
+      "status": "active",
+      "onset": "May 2021",
+      "evidence": [
+        {
+          "note_id": "text_0",
+          "line_no": 18,
+          "span": "Arterial hypertension"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 20,
+          "span": "Arterial hypertension"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 44,
+          "span": "Arterial hypertension"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 45,
+          "span": "Arterial hypertension"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 318,
+          "span": "Mildly elevated blood pressure (hypertension) since May of this year"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 53,
+          "span": "Arterial hypertension"
+        }
+      ]
+    },
+    {
+      "condition_name": "Post-COVID myocarditis with left ventricular hypokinesia",
+      "category": "cardiovascular",
+      "subcategory": "inflammatory_vascular",
+      "status": "resolved",
+      "onset": "October 2021",
+      "evidence": [
+        {
+          "note_id": "text_3",
+          "line_no": 341,
+          "span": "Hypokinesia of the lateral and anterior walls"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 359,
+          "span": "moderately reduced LVEF with wall motion abnormalities in the RIVA"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 397,
+          "span": "moderate hypokinesia of the left ventricle in the RIVA area"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 399,
+          "span": "post-COVID myocarditis, differential diagnosis myocardial injury in severe ARDS, coronary artery disease, or mixed picture"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 403,
+          "span": "cautious heart failure medication regimen with beta-blockers and ACE inhibitors was initiated"
+        }
+      ]
+    },
+    {
+      "condition_name": "Persistent foramen ovale",
+      "category": "cardiovascular",
+      "subcategory": "structural",
+      "status": "active",
+      "onset": "October 2021",
+      "evidence": [
+        {
+          "note_id": "text_3",
+          "line_no": 353,
+          "span": "Small Persistent Foramen Ovale"
+        }
+      ]
+    },
+    {
+      "condition_name": "ICU-acquired weakness (critical illness polyneuropathy/myopathy)",
+      "category": "neurological",
+      "subcategory": "neuromuscular",
+      "status": "active",
+      "onset": "October 2021",
+      "evidence": [
+        {
+          "note_id": "text_3",
+          "line_no": 119,
+          "span": "Muscle strength reduced due to CIP/CIM"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 10,
+          "span": "ICU-acquired weakness"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 69,
+          "span": "general fatigue, quick fatigue, and weakness, especially in the lower extremities"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 103,
+          "span": "pronounced muscle weakness and suspected ICU-acquired weakness"
+        }
+      ]
+    },
+    {
+      "condition_name": "Bilateral pneumonia",
+      "category": "infectious",
+      "subcategory": "viral",
+      "status": "resolved",
+      "onset": "28 September 2021",
+      "evidence": [
+        {
+          "note_id": "text_0",
+          "line_no": 28,
+          "span": "bilateral interstitial pneumonia with COVID-typical infiltrates"
+        },
+        {
+          "note_id": "text_0",
+          "line_no": 66,
+          "span": "radiological suspicion of atypical pneumonia"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 89,
+          "span": "COVID pneumonia"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 195,
+          "span": "Patchy confluent bilateral lung infiltrates, mainly perihilar"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 234,
+          "span": "consolidation in the right lower lobe and left lower lobe, which is well compatible with pneumonic infiltrates"
+        }
+      ]
+    },
+    {
+      "condition_name": "Hepatic cyst (congenital)",
+      "category": "gastrointestinal",
+      "subcategory": "hepatic",
+      "status": "active",
+      "onset": "November 2021",
+      "evidence": [
+        {
+          "note_id": "text_3",
+          "line_no": 299,
+          "span": "entirely echo-free cystic structure with a slightly lobulated contour"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 301,
+          "span": "most likely a congenital cyst"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 416,
+          "span": "unclear liver lesion, which was found to be a congenital cyst"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,816 @@
+{
+  "patient_id": "patient_16",
+  "conditions": [
+    {
+      "condition_name": "Severe open traumatic brain injury with skull fractures",
+      "category": "neurological",
+      "subcategory": "traumatic",
+      "status": "active",
+      "onset": "3 April 2017",
+      "evidence": [
+        {
+          "note_id": "text_0",
+          "line_no": 9,
+          "span": "Severe open traumatic brain injury with fractures of the cranial vault, mastoid, and skull base"
+        },
+        {
+          "note_id": "text_0",
+          "line_no": 36,
+          "span": "open traumatic brain injury with fractures of the cranial vault, mastoid, and skull base"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 8,
+          "span": "Open severe traumatic brain injury with fractures of the skull vault, mastoid, and skull base"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 53,
+          "span": "open traumatic brain injury with fractures of the skull vault, mastoid, and skull base"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 248,
+          "span": "Open skull-brain trauma with intracranial air inclusions and skull base fracture"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 272,
+          "span": "Known bilateral skull base fractures involving the petrous bone"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 334,
+          "span": "Severe skull-brain trauma with skull calvarium, mastoid, and skull base fractures"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 482,
+          "span": "Fracture of the skull base and the petrous part of the temporal bone on both sides"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 505,
+          "span": "Fracture of the skull base and the petrous part of the temporal bone on both sides without significant displacement"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 550,
+          "span": "severe open traumatic brain injury with fractures of the cranial vault, mastoid, and skull base"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 572,
+          "span": "severe open traumatic brain injury with fractures of the cranial vault, mastoid, and skull base"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 30,
+          "span": "History of severe open head injury in a motocross accident with multiple skull fractures"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 13,
+          "span": "History of severe open head trauma with fractures of the cranial vault, mastoid, and skull base"
+        }
+      ]
+    },
+    {
+      "condition_name": "Bilateral internal carotid artery dissection",
+      "category": "cardiovascular",
+      "subcategory": "vascular",
+      "status": "active",
+      "onset": "3 April 2017",
+      "evidence": [
+        {
+          "note_id": "text_0",
+          "line_no": 12,
+          "span": "Dissection of the distal internal carotid artery on both sides"
+        },
+        {
+          "note_id": "text_0",
+          "line_no": 38,
+          "span": "dissection of both carotid arteries"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 11,
+          "span": "Dissection of the distal ACI on both sides"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 55,
+          "span": "dissection of the carotid arteries on both sides"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 101,
+          "span": "bilateral carotid dissection"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 243,
+          "span": "Dissection of the distal internal carotid artery on both sides"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 399,
+          "span": "bilateral internal carotid artery dissection"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 440,
+          "span": "bilateral internal carotid artery dissection"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 502,
+          "span": "distal ACI dissections"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 18,
+          "span": "traumatic ICA dissection"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 31,
+          "span": "distal dissection"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 60,
+          "span": "traumatic carotid dissection"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 9,
+          "span": "traumatic carotid dissection"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 14,
+          "span": "Distal ICA dissection bilaterally"
+        }
+      ]
+    },
+    {
+      "condition_name": "Subarachnoid hemorrhage",
+      "category": "neurological",
+      "subcategory": "cerebrovascular",
+      "status": "resolved",
+      "onset": "3 April 2017",
+      "evidence": [
+        {
+          "note_id": "text_0",
+          "line_no": 14,
+          "span": "Subarachnoid hemorrhage involving both hemispheres and extending into the basal cisterns"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 13,
+          "span": "Subarachnoid hemorrhage involving both hemispheres and extending into basal cisterns"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 56,
+          "span": "bilateral subarachnoid hemorrhage"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 373,
+          "span": "bilateral subarachnoid hemorrhage (SAH)"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 493,
+          "span": "Completely regressed subarachnoid hemorrhages on both sides"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 579,
+          "span": "Traumatic subarachnoid hemorrhage"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 15,
+          "span": "Bilateral hemispheric subarachnoid hemorrhage extending into the basal cisterns"
+        }
+      ]
+    },
+    {
+      "condition_name": "Cerebral infarcts in MCA-ACA border zone",
+      "category": "neurological",
+      "subcategory": "cerebrovascular",
+      "status": "active",
+      "onset": "3 April 2017",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 16,
+          "span": "Infarct areas in the border zone between MCA-ACA on the right frontal and left parietal sides"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 80,
+          "span": "previously known infarcts in the border zone area"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 269,
+          "span": "Progression of a newly hypodense demarcated cortical infarct on the left, postcentral"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 392,
+          "span": "demarcated infarcts/defect zones"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 422,
+          "span": "Increasing demarcation of infarct areas in the border zone of MCA-ACA on the right frontal"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 473,
+          "span": "Progressively demarcated infarcts on the right frontal and left parietal"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 500,
+          "span": "circumscribed hypodensity in the centrum semiovale"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 16,
+          "span": "Infarct areas in the MCA-ACA border zones, right frontal, and left parietal"
+        }
+      ]
+    },
+    {
+      "condition_name": "Malresorptive hydrocephalus",
+      "category": "neurological",
+      "subcategory": "cerebrovascular",
+      "status": "active",
+      "onset": "3 April 2017",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 19,
+          "span": "Malresorptive hydrocephalus"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 261,
+          "span": "regressed hydrocephalus"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 303,
+          "span": "malresorptive hydrocephalus"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 28,
+          "span": "Malresorptive hydrocephalus"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 17,
+          "span": "Malresorptive hydrocephalus"
+        }
+      ]
+    },
+    {
+      "condition_name": "Aspiration pneumonia",
+      "category": "infectious",
+      "subcategory": "bacterial",
+      "status": "resolved",
+      "onset": "3 April 2017",
+      "evidence": [
+        {
+          "note_id": "text_0",
+          "line_no": 17,
+          "span": "Aspiration pneumonia"
+        },
+        {
+          "note_id": "text_0",
+          "line_no": 34,
+          "span": "aspiration occurred"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 25,
+          "span": "Aspiration pneumonia"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 111,
+          "span": "history of aspiration in the prehospital setting"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 140,
+          "span": "empirical antibiotic therapy was initiated for suspected pneumonia"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 142,
+          "span": "Staphylococcus aureus was found in bronchial lavage"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 148,
+          "span": "right lower lobe infiltrates in the chest X-ray"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 287,
+          "span": "Persistence of infiltrates in the right lower lobe"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 23,
+          "span": "History of aspiration pneumonia"
+        }
+      ]
+    },
+    {
+      "condition_name": "Deep vein thrombosis, right leg",
+      "category": "cardiovascular",
+      "subcategory": "vascular",
+      "status": "resolved",
+      "onset": "16 April 2017",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 103,
+          "span": "right>left leg circumference difference and redness of the right leg"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 104,
+          "span": "long-segment deep vein thrombosis in the right leg"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 223,
+          "span": "Suspected deep vein thrombosis (DVT) on the right leg"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 228,
+          "span": "Confirmation of a long-segment deep venous thrombosis in the right leg"
+        }
+      ]
+    },
+    {
+      "condition_name": "Rhabdomyolysis",
+      "category": "musculoskeletal",
+      "subcategory": "connective_tissue_disorder",
+      "status": "resolved",
+      "onset": "3 April 2017",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 23,
+          "span": "Rhabdomyolysis"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 134,
+          "span": "crush parameters increased"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 136,
+          "span": "significant reduction of crush parameters"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 20,
+          "span": "Rhabdomyolysis"
+        }
+      ]
+    },
+    {
+      "condition_name": "Ventriculitis",
+      "category": "infectious",
+      "subcategory": "bacterial",
+      "status": "resolved",
+      "onset": "3 April 2017",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 84,
+          "span": "suspected ventriculitis"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 87,
+          "span": "successful antibiotic treatment of ventriculitis"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 150,
+          "span": "gram-negative rods"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 153,
+          "span": "suspected ventriculitis"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 164,
+          "span": "CSF: gram-negative rods"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 168,
+          "span": "CSF: gram-negative rods"
+        }
+      ]
+    },
+    {
+      "condition_name": "Pseudomonas aeruginosa bacteremia",
+      "category": "infectious",
+      "subcategory": "bacterial",
+      "status": "resolved",
+      "onset": "3 April 2017",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 165,
+          "span": "Blood Culture: Pseudomonas aeruginosa"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 169,
+          "span": "Blood Culture: Pseudomonas aeruginosa, Acinetobacter radioresistens"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 154,
+          "span": "reduction in infection parameters"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 155,
+          "span": "blood cultures, and urine revealed no pathological findings"
+        }
+      ]
+    },
+    {
+      "condition_name": "Staphylococcus capitis bacteremia",
+      "category": "infectious",
+      "subcategory": "bacterial",
+      "status": "resolved",
+      "onset": "3 April 2017",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 141,
+          "span": "Staphylococcus capitis was identified in blood cultures"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 161,
+          "span": "Staph. Capitis in Blood Culture"
+        }
+      ]
+    },
+    {
+      "condition_name": "Cerebral edema",
+      "category": "neurological",
+      "subcategory": "traumatic",
+      "status": "resolved",
+      "onset": "3 April 2017",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 79,
+          "span": "progressive edema"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 246,
+          "span": "Signs of generalized elevated intracranial pressure"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 379,
+          "span": "Generalized signs of cerebral edema remain constant"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 417,
+          "span": "bihemispheric and cerebellar brain edema"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 498,
+          "span": "global cerebral edema"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 572,
+          "span": "Brain edema following a severe open traumatic brain injury"
+        }
+      ]
+    },
+    {
+      "condition_name": "Maxillary fracture",
+      "category": "musculoskeletal",
+      "subcategory": "fracture",
+      "status": "resolved",
+      "onset": "3 April 2017",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 557,
+          "span": "Patient with maxillary fracture"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 560,
+          "span": "radiologically hardly displaced maxillary fracture"
+        }
+      ]
+    },
+    {
+      "condition_name": "Rib fracture",
+      "category": "musculoskeletal",
+      "subcategory": "fracture",
+      "status": "resolved",
+      "onset": "2005",
+      "evidence": [
+        {
+          "note_id": "text_0",
+          "line_no": 21,
+          "span": "Status post rib fracture 2005"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 29,
+          "span": "Status post rib fracture in 2005"
+        }
+      ]
+    },
+    {
+      "condition_name": "Distal radius fracture",
+      "category": "musculoskeletal",
+      "subcategory": "fracture",
+      "status": "resolved",
+      "onset": "2008",
+      "evidence": [
+        {
+          "note_id": "text_0",
+          "line_no": 25,
+          "span": "Status post distal radius fracture 2008"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 33,
+          "span": "Status post distal radius fracture in 2008"
+        }
+      ]
+    },
+    {
+      "condition_name": "Elbow fracture",
+      "category": "musculoskeletal",
+      "subcategory": "fracture",
+      "status": "resolved",
+      "onset": "2010",
+      "evidence": [
+        {
+          "note_id": "text_0",
+          "line_no": 27,
+          "span": "Status post elbow fracture 20010"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 35,
+          "span": "Status post elbow fracture in 20010"
+        }
+      ]
+    },
+    {
+      "condition_name": "Right abducens nerve palsy and facial nerve palsy",
+      "category": "neurological",
+      "subcategory": "traumatic",
+      "status": "active",
+      "onset": "3 April 2017",
+      "evidence": [
+        {
+          "note_id": "text_2",
+          "line_no": 9,
+          "span": "Right abducens Nerve Palsy and Facial Nerve Palsy"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 11,
+          "span": "Lagophthalmos with corneal opacities due to eyelid closure deficit"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 607,
+          "span": "Adduction deficit in the right eye and horizontal nystagmus"
+        }
+      ]
+    },
+    {
+      "condition_name": "Left abducens nerve palsy",
+      "category": "neurological",
+      "subcategory": "traumatic",
+      "status": "active",
+      "onset": "August 2018",
+      "evidence": [
+        {
+          "note_id": "text_2",
+          "line_no": 13,
+          "span": "Left Abducens Nerve Palsy with slight compensatory head leftward rotation and preferred leftward gaze"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 61,
+          "span": "ipsilateral abducens nerve palsy"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 11,
+          "span": "Abducens nerve palsy"
+        }
+      ]
+    },
+    {
+      "condition_name": "Pseudoaneurysm of cavernous left internal carotid artery",
+      "category": "cardiovascular",
+      "subcategory": "vascular",
+      "status": "active",
+      "onset": "August 2018",
+      "evidence": [
+        {
+          "note_id": "text_2",
+          "line_no": 18,
+          "span": "Suspected left cavernous internal carotid artery aneurysm following traumatic ICA dissection"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 59,
+          "span": "pseudoaneurysm of the cavernous left internal carotid artery"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 77,
+          "span": "The pseudoaneurysm has shown slight enlargement"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 8,
+          "span": "Pseudoaneurysm of the cavernous left internal carotid artery following traumatic carotid dissection"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 52,
+          "span": "Pseudoaneurysm of the left ICA"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 67,
+          "span": "partially thrombosed cavernous aneurysm of the left internal carotid artery measures 4 x 2 mm"
+        }
+      ]
+    },
+    {
+      "condition_name": "Subdural hematoma",
+      "category": "neurological",
+      "subcategory": "traumatic",
+      "status": "resolved",
+      "onset": "3 April 2017",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 264,
+          "span": "Complete regression of subdural hematoma on the left, tentorial region"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 307,
+          "span": "Residual subdural hematoma on the left, tentorial"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 343,
+          "span": "Narrow subdural hematoma on the left occipital extending tentorially"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 389,
+          "span": "constant SDH at the tentorial edge on both sides"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 431,
+          "span": "Constant subdural hematoma tentorial and posterior falx"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 469,
+          "span": "Constant narrow subdural hematoma on both sides, tentorial and posterior parasagittal"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 493,
+          "span": "Minimal SDH components on the tentorial edges bilaterally"
+        }
+      ]
+    },
+    {
+      "condition_name": "Anemia",
+      "category": "hematological",
+      "subcategory": "cytopenia",
+      "status": "resolved",
+      "onset": "3 April 2017",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 206,
+          "span": "Hemoglobin           7.6 g/dL      13.5-17.0 g/dL"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 208,
+          "span": "Red Blood Cells      3.5 M/uL      4.3-5.8 M/uL"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 95,
+          "span": "Hemoglobin           7.8 g/dL      13.5-17.0 g/dL"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 97,
+          "span": "Red Blood Cells      3.5 M/uL      4.3-5.8 M/uL"
+        }
+      ]
+    },
+    {
+      "condition_name": "Coagulopathy",
+      "category": "hematological",
+      "subcategory": "coagulation",
+      "status": "resolved",
+      "onset": "3 April 2017",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 216,
+          "span": "Quick                54%           78-123%"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 217,
+          "span": "INR                  1.36          0.90-1.25"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 105,
+          "span": "Quick                54%           78-123%"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 106,
+          "span": "INR                  1.36          0.90-1.25"
+        }
+      ]
+    },
+    {
+      "condition_name": "Suspected Propofol infusion syndrome",
+      "category": "toxicological",
+      "subcategory": "poisoning",
+      "status": "suspected",
+      "onset": "May 2019",
+      "evidence": [
+        {
+          "note_id": "text_3",
+          "line_no": 25,
+          "span": "Suspected Propofol infusion syndrome"
+        }
+      ]
+    },
+    {
+      "condition_name": "Bilateral disc swelling",
+      "category": "neurological",
+      "subcategory": "traumatic",
+      "status": "active",
+      "onset": "August 2018",
+      "evidence": [
+        {
+          "note_id": "text_2",
+          "line_no": 16,
+          "span": "Bilateral disc swelling"
+        }
+      ]
+    }
+  ]
+}

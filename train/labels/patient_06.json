@@ -1,0 +1,563 @@
+{
+  "patient_id": "patient_06",
+  "conditions": [
+    {
+      "condition_name": "Squamous cell carcinoma of the left tongue base",
+      "category": "cancer",
+      "subcategory": "primary_malignancy",
+      "status": "resolved",
+      "onset": "May 2014",
+      "evidence": [
+        {
+          "note_id": "text_0",
+          "line_no": 12,
+          "span": "pT1, pN0 (0/21, ECE negative), cM0, Pn0, G2, RX, L0, V0, left midline tongue carcinoma"
+        },
+        {
+          "note_id": "text_0",
+          "line_no": 93,
+          "span": "Invasive, moderately differentiated, squamous cell carcinoma with keratinization of the medial left base of the tongue, maximum extent 1.0 cm."
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 6,
+          "span": "Tongue base Carcinoma ICD-10: C01, stage: pT1 pN0 (0/21) L0 V0 Pn0 G2 RX"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 8,
+          "span": "Tongue base carcinoma ICD-10: C01, stage: pT1 pN0 (0/21) L0 V0 Pn0 G2 RX"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 8,
+          "span": "Tongue base Carcinoma ICD-10: C01, stage: pT1 pN0 (0/21) L0 V0 Pn0 G2 RX"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 8,
+          "span": "Tongue base carcinoma ICD-10: C01, stage: pT1 pN0 (0/21) L0 V0 Pn0 G2 RX"
+        },
+        {
+          "note_id": "text_5",
+          "line_no": 10,
+          "span": "Tongue base Carcinoma ICD-10: C01, stage: pT1 pN0 (0/21) L0 V0 Pn0 G2 RX"
+        },
+        {
+          "note_id": "text_6",
+          "line_no": 19,
+          "span": "Recurrent oropharyngeal carcinoma ICD-10: C01"
+        },
+        {
+          "note_id": "text_7",
+          "line_no": 19,
+          "span": "Recurrent oropharyngeal carcinoma ICD-10: C01"
+        }
+      ]
+    },
+    {
+      "condition_name": "Recurrent oropharyngeal carcinoma",
+      "category": "cancer",
+      "subcategory": "primary_malignancy",
+      "status": "active",
+      "onset": "October 2020",
+      "evidence": [
+        {
+          "note_id": "text_3",
+          "line_no": 54,
+          "span": "adjuvant RTx following tumor resection with laryngectomy for extensive recurrence of oropharyngeal cancer"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 58,
+          "span": "extensive recurrence of oropharyngeal Carcinoma"
+        },
+        {
+          "note_id": "text_6",
+          "line_no": 25,
+          "span": "Recurrent oropharyngeal carcinoma ICD-10: C01"
+        },
+        {
+          "note_id": "text_6",
+          "line_no": 27,
+          "span": "Stage: rpT2 rpN2(2/24, ECE -) L1 V0 Pn0 G2 R0"
+        },
+        {
+          "note_id": "text_7",
+          "line_no": 19,
+          "span": "Recurrent oropharyngeal carcinoma ICD-10: C01"
+        },
+        {
+          "note_id": "text_7",
+          "line_no": 21,
+          "span": "Stage: rpT2 rpN2(2/24, ECE -) L1 V0 Pn0 G2 R0"
+        }
+      ]
+    },
+    {
+      "condition_name": "Pulmonary metastasis from squamous cell carcinoma",
+      "category": "cancer",
+      "subcategory": "metastasis",
+      "status": "resolved",
+      "onset": "September 2021",
+      "evidence": [
+        {
+          "note_id": "text_4",
+          "line_no": 72,
+          "span": "New to the previous examination, two small nodular condensations appear, basal in the right and in the left lower lobe, differentially inflammatory"
+        },
+        {
+          "note_id": "text_5",
+          "line_no": 6,
+          "span": "Metachronous pulmonary metastatic squamous cell carcinoma"
+        },
+        {
+          "note_id": "text_5",
+          "line_no": 70,
+          "span": "the final resection specimen confirmed the presence of a 2.9 cm squamous cell carcinoma, consistent with a metastatic recurrence of the previously known hypopharyngeal carcinoma. The dissected lymph nodes were free of tumor."
+        },
+        {
+          "note_id": "text_6",
+          "line_no": 6,
+          "span": "Metachronous pulmonary metastatic squamous cell carcinoma at the base of the tongue."
+        },
+        {
+          "note_id": "text_6",
+          "line_no": 64,
+          "span": "the final resection specimen histologically confirmed the presence of a 2.9 cm squamous cell carcinoma, consistent with a metastatic recurrence of the previously known hypopharyngeal carcinoma. The dissected lymph nodes were free of tumor."
+        },
+        {
+          "note_id": "text_7",
+          "line_no": 6,
+          "span": "Metachronous pulmonary metastatic squamous cell carcinoma at the base of the tongue."
+        },
+        {
+          "note_id": "text_7",
+          "line_no": 60,
+          "span": "Histologically, the final resection specimen confirmed a 2.9 cm solid carcinoma, consistent with metastasis from the previously diagnosed squamous cell carcinoma."
+        }
+      ]
+    },
+    {
+      "condition_name": "Arterial hypertension",
+      "category": "cardiovascular",
+      "subcategory": "hypertensive",
+      "status": "active",
+      "onset": "May 2014",
+      "evidence": [
+        {
+          "note_id": "text_0",
+          "line_no": 15,
+          "span": "Arterial hypertension"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 11,
+          "span": "Arterial hypertension"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 20,
+          "span": "Arterial hypertension"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 20,
+          "span": "Arterial hypertension"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 20,
+          "span": "Arterial hypertension"
+        },
+        {
+          "note_id": "text_5",
+          "line_no": 22,
+          "span": "Arterial hypertension"
+        },
+        {
+          "note_id": "text_6",
+          "line_no": 48,
+          "span": "Arterial hypertension"
+        },
+        {
+          "note_id": "text_7",
+          "line_no": 42,
+          "span": "Arterial hypertension"
+        }
+      ]
+    },
+    {
+      "condition_name": "Aortic sclerosis",
+      "category": "cardiovascular",
+      "subcategory": "vascular",
+      "status": "active",
+      "onset": "May 2014",
+      "evidence": [
+        {
+          "note_id": "text_0",
+          "line_no": 61,
+          "span": "Vasosclerosis."
+        },
+        {
+          "note_id": "text_0",
+          "line_no": 81,
+          "span": "Moderate aortic sclerosis."
+        }
+      ]
+    },
+    {
+      "condition_name": "Cardiomegaly",
+      "category": "cardiovascular",
+      "subcategory": "structural",
+      "status": "active",
+      "onset": "January 2022",
+      "evidence": [
+        {
+          "note_id": "text_5",
+          "line_no": 114,
+          "span": "Widened cardiac silhouette."
+        },
+        {
+          "note_id": "text_5",
+          "line_no": 135,
+          "span": "Cardiomegaly."
+        },
+        {
+          "note_id": "text_5",
+          "line_no": 143,
+          "span": "Cardiomegaly."
+        }
+      ]
+    },
+    {
+      "condition_name": "Oral thrush",
+      "category": "infectious",
+      "subcategory": "fungal",
+      "status": "active",
+      "onset": "September 2014",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 21,
+          "span": "Oral thrush"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 30,
+          "span": "Oral thrush"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 30,
+          "span": "Oral thrush"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 30,
+          "span": "Oral thrush"
+        },
+        {
+          "note_id": "text_5",
+          "line_no": 32,
+          "span": "Oral thrush"
+        },
+        {
+          "note_id": "text_6",
+          "line_no": 54,
+          "span": "Oral thrush"
+        },
+        {
+          "note_id": "text_7",
+          "line_no": 48,
+          "span": "Oral thrush"
+        }
+      ]
+    },
+    {
+      "condition_name": "Non-insulin-dependent diabetes mellitus type II",
+      "category": "metabolic_endocrine",
+      "subcategory": "diabetes",
+      "status": "active",
+      "onset": "May 2014",
+      "evidence": [
+        {
+          "note_id": "text_0",
+          "line_no": 23,
+          "span": "Non-insulin-dependent diabetes mellitus type II"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 12,
+          "span": "Diabetes mellitus type II"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 22,
+          "span": "Diabetes mellitus type II"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 22,
+          "span": "Diabetes mellitus type II"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 22,
+          "span": "Diabetes mellitus type II"
+        },
+        {
+          "note_id": "text_5",
+          "line_no": 24,
+          "span": "Diabetes mellitus type II"
+        },
+        {
+          "note_id": "text_6",
+          "line_no": 46,
+          "span": "Non-insulin-dependent diabetes mellitus type II"
+        },
+        {
+          "note_id": "text_7",
+          "line_no": 40,
+          "span": "Non-insulin-dependent diabetes mellitus type II"
+        }
+      ]
+    },
+    {
+      "condition_name": "Hypothyroidism",
+      "category": "metabolic_endocrine",
+      "subcategory": "thyroid",
+      "status": "active",
+      "onset": "May 2014",
+      "evidence": [
+        {
+          "note_id": "text_0",
+          "line_no": 25,
+          "span": "Hypothyroidism"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 19,
+          "span": "Hypothyroidism"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 28,
+          "span": "Hypothyroidism"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 28,
+          "span": "Hypothyroidism"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 28,
+          "span": "Hypothyroidism"
+        },
+        {
+          "note_id": "text_5",
+          "line_no": 30,
+          "span": "Hypothyroidism"
+        },
+        {
+          "note_id": "text_6",
+          "line_no": 52,
+          "span": "Hypothyroidism"
+        },
+        {
+          "note_id": "text_7",
+          "line_no": 46,
+          "span": "Hypothyroidism"
+        }
+      ]
+    },
+    {
+      "condition_name": "Hypacusis",
+      "category": "neurological",
+      "subcategory": "functional",
+      "status": "active",
+      "onset": "September 2014",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 23,
+          "span": "Hypacusis"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 32,
+          "span": "Hypacusis"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 32,
+          "span": "Hypacusis"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 32,
+          "span": "Hypacusis"
+        },
+        {
+          "note_id": "text_5",
+          "line_no": 34,
+          "span": "Hypacusis"
+        },
+        {
+          "note_id": "text_6",
+          "line_no": 56,
+          "span": "Hypacusis"
+        },
+        {
+          "note_id": "text_7",
+          "line_no": 50,
+          "span": "Hypacusis"
+        }
+      ]
+    },
+    {
+      "condition_name": "Obstructive sleep apnea syndrome",
+      "category": "pulmonary",
+      "subcategory": "obstructive",
+      "status": "active",
+      "onset": "January 2022",
+      "evidence": [
+        {
+          "note_id": "text_6",
+          "line_no": 40,
+          "span": "OSAS with CPAP incompliance"
+        },
+        {
+          "note_id": "text_7",
+          "line_no": 36,
+          "span": "OSAS with CPAP incompliance"
+        }
+      ]
+    },
+    {
+      "condition_name": "Liver cirrhosis",
+      "category": "gastrointestinal",
+      "subcategory": "hepatic",
+      "status": "active",
+      "onset": "May 2014",
+      "evidence": [
+        {
+          "note_id": "text_0",
+          "line_no": 63,
+          "span": "Liver cirrhosis."
+        },
+        {
+          "note_id": "text_0",
+          "line_no": 80,
+          "span": "Image of liver cirrhosis status post cholecystectomy."
+        },
+        {
+          "note_id": "text_6",
+          "line_no": 44,
+          "span": "Liver cirrhosis with alcohol abuse"
+        },
+        {
+          "note_id": "text_7",
+          "line_no": 38,
+          "span": "Liver cirrhosis with alcohol abuse"
+        }
+      ]
+    },
+    {
+      "condition_name": "Idiopathic thrombocytopenia",
+      "category": "hematological",
+      "subcategory": "cytopenia",
+      "status": "active",
+      "onset": "May 2014",
+      "evidence": [
+        {
+          "note_id": "text_0",
+          "line_no": 21,
+          "span": "Idiopathic thrombocytopenia"
+        }
+      ]
+    },
+    {
+      "condition_name": "Anemia",
+      "category": "hematological",
+      "subcategory": "cytopenia",
+      "status": "active",
+      "onset": "September 2021",
+      "evidence": [
+        {
+          "note_id": "text_4",
+          "line_no": 93,
+          "span": "RBC              2.7M /\u03bcL      4.5M - 5.9M /\u03bcL"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 94,
+          "span": "Hemoglobin       8.2 g/dL      14 - 18 g/dL"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 95,
+          "span": "Hematocrit       25.1 %        40 - 48 %"
+        },
+        {
+          "note_id": "text_7",
+          "line_no": 108,
+          "span": "Hemoglobin                       10.1 g/dL      12.5-17.2 g/dL"
+        },
+        {
+          "note_id": "text_7",
+          "line_no": 110,
+          "span": "RBC                              3.3 M/\u00b5L       4.0-5.6 M/\u00b5L"
+        }
+      ]
+    },
+    {
+      "condition_name": "Lymphopenia",
+      "category": "hematological",
+      "subcategory": "cytopenia",
+      "status": "active",
+      "onset": "January 2022",
+      "evidence": [
+        {
+          "note_id": "text_7",
+          "line_no": 87,
+          "span": "Lymphocytes                      8.6 %          20.0-44.0 %"
+        },
+        {
+          "note_id": "text_7",
+          "line_no": 120,
+          "span": "Absolute Lymphocytes             0.43 K/\u00b5L      1.10-4.50 K/\u00b5L"
+        }
+      ]
+    },
+    {
+      "condition_name": "Degenerative cervical spine disease",
+      "category": "musculoskeletal",
+      "subcategory": "degenerative",
+      "status": "active",
+      "onset": "September 2021",
+      "evidence": [
+        {
+          "note_id": "text_4",
+          "line_no": 65,
+          "span": "Moderate degenerative changes of the cervical spine."
+        }
+      ]
+    },
+    {
+      "condition_name": "Hepatosplenomegaly",
+      "category": "gastrointestinal",
+      "subcategory": "hepatic",
+      "status": "active",
+      "onset": "May 2014",
+      "evidence": [
+        {
+          "note_id": "text_0",
+          "line_no": 81,
+          "span": "Hepatosplenomegaly."
+        }
+      ]
+    }
+  ]
+}

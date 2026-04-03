@@ -1,0 +1,503 @@
+{
+  "patient_id": "patient_14",
+  "conditions": [
+    {
+      "condition_name": "Myxoid liposarcoma of the right medial thigh",
+      "category": "cancer",
+      "subcategory": "primary_malignancy",
+      "status": "active",
+      "onset": "February 2017",
+      "evidence": [
+        {
+          "note_id": "text_0",
+          "line_no": 29,
+          "span": "a high suspicion of a mucinous mass lesion in the region of the right adductor compartment"
+        },
+        {
+          "note_id": "text_0",
+          "line_no": 31,
+          "span": "Mucinous liposarcoma"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 6,
+          "span": "Soft tissue tumor of the right proximal thigh"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 140,
+          "span": "Incisional biopsy from a myxoid liposarcoma, Grade 1 according to FNCLCC"
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 159,
+          "span": "Incisional biopsy from a myxoid liposarcoma (right adductor compartment)."
+        },
+        {
+          "note_id": "text_1",
+          "line_no": 186,
+          "span": "Incisional biopsy from a myxoid liposarcoma of the right adductor compartment."
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 9,
+          "span": "Myxoid liposarcoma on the right medial thigh, pT2 pNX L0 V0 Pn0 G1 R0, Stage IB"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 88,
+          "span": "myxoid liposarcoma"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 7,
+          "span": "Myxoid liposarcoma, right medial thigh, pT2 pNX L0 V0 Pn0 G1 R0, Stage IB"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 82,
+          "span": "Following the resection of a myxoid liposarcoma on the right medial thigh"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 7,
+          "span": "Myxoid liposarcoma on the right medial thigh, pT2 pNX L0 V0 Pn0 G1 R0, Stage IB"
+        },
+        {
+          "note_id": "text_5",
+          "line_no": 7,
+          "span": "Myxoid liposarcoma, right medial thigh, pT2 pNX L0 V0 Pn0 G1 R0, Stage IB"
+        },
+        {
+          "note_id": "text_6",
+          "line_no": 9,
+          "span": "Myxoid liposarcoma on the right medial thigh, pT2 pNX L0 V0 Pn0 G1 R0, Stage IB"
+        }
+      ]
+    },
+    {
+      "condition_name": "Pulmonary metastasis from myxoid liposarcoma",
+      "category": "cancer",
+      "subcategory": "metastasis",
+      "status": "resolved",
+      "onset": "August 2023",
+      "evidence": [
+        {
+          "note_id": "text_6",
+          "line_no": 7,
+          "span": "Pulmonary Metastasis from Myxoid Liposarcoma"
+        },
+        {
+          "note_id": "text_6",
+          "line_no": 76,
+          "span": "a well-defined, irregularly shaped lesion in the right lower lobe of the lung, measuring approximately 2.5 cm in diameter"
+        },
+        {
+          "note_id": "text_6",
+          "line_no": 78,
+          "span": "The lesion exhibited characteristics highly suggestive of a metastatic deposit"
+        },
+        {
+          "note_id": "text_6",
+          "line_no": 84,
+          "span": "confirmed the presence of myxoid liposarcoma cells in the pulmonary lesion"
+        },
+        {
+          "note_id": "text_6",
+          "line_no": 86,
+          "span": "Immunohistochemical staining for MDM2 and CDK4 supported the diagnosis of metastatic myxoid liposarcoma"
+        },
+        {
+          "note_id": "text_6",
+          "line_no": 99,
+          "span": "Intraoperative frozen section analysis confirmed the presence of metastatic myxoid liposarcoma in the resected lung tissue"
+        },
+        {
+          "note_id": "text_6",
+          "line_no": 106,
+          "span": "Pathological examination of the resected lung tissue confirmed the presence of metastatic myxoid liposarcoma, with clear surgical margins"
+        }
+      ]
+    },
+    {
+      "condition_name": "Arterial hypertension",
+      "category": "cardiovascular",
+      "subcategory": "hypertensive",
+      "status": "active",
+      "onset": "March 2017",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 10,
+          "span": "Arterial hypertension"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 16,
+          "span": "Arterial hypertension"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 18,
+          "span": "Arterial hypertension"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 18,
+          "span": "Arterial hypertension"
+        },
+        {
+          "note_id": "text_5",
+          "line_no": 18,
+          "span": "Arterial hypertension"
+        },
+        {
+          "note_id": "text_6",
+          "line_no": 22,
+          "span": "Arterial hypertension"
+        }
+      ]
+    },
+    {
+      "condition_name": "Non-insulin-dependent diabetes mellitus",
+      "category": "metabolic_endocrine",
+      "subcategory": "diabetes",
+      "status": "active",
+      "onset": "March 2017",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 12,
+          "span": "Non-insulin-dependent diabetes mellitus"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 18,
+          "span": "Non-insulin-dependent diabetes mellitus"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 20,
+          "span": "Non-insulin-dependent diabetes mellitus"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 20,
+          "span": "Non-insulin-dependent diabetes mellitus"
+        },
+        {
+          "note_id": "text_5",
+          "line_no": 20,
+          "span": "Non-insulin-dependent diabetes mellitus (NIDDM)"
+        },
+        {
+          "note_id": "text_6",
+          "line_no": 24,
+          "span": "Non-insulin-dependent diabetes mellitus (NIDDM)"
+        }
+      ]
+    },
+    {
+      "condition_name": "Coronary artery disease",
+      "category": "cardiovascular",
+      "subcategory": "coronary",
+      "status": "active",
+      "onset": "March 2017",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 14,
+          "span": "Coronary artery disease with stent placement"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 20,
+          "span": "Coronary artery disease with stent placement"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 183,
+          "span": "Coronary artery sclerosis"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 22,
+          "span": "Coronary artery disease with stent placement"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 22,
+          "span": "Coronary artery disease with stent placement"
+        },
+        {
+          "note_id": "text_5",
+          "line_no": 22,
+          "span": "Coronary artery disease (CAD) with stent placement"
+        },
+        {
+          "note_id": "text_5",
+          "line_no": 83,
+          "span": "coronary sclerosis"
+        },
+        {
+          "note_id": "text_6",
+          "line_no": 26,
+          "span": "Coronary artery disease (CAD) with stent placement"
+        }
+      ]
+    },
+    {
+      "condition_name": "Cerebrovascular accident (apoplexy)",
+      "category": "neurological",
+      "subcategory": "cerebrovascular",
+      "status": "resolved",
+      "onset": "March 2017",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 20,
+          "span": "Status post apoplexy"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 26,
+          "span": "Status post apoplexy"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 28,
+          "span": "Status post apoplexy"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 28,
+          "span": "Status post apoplexy"
+        },
+        {
+          "note_id": "text_5",
+          "line_no": 28,
+          "span": "Status post apoplexy"
+        },
+        {
+          "note_id": "text_6",
+          "line_no": 32,
+          "span": "Status post apoplexy"
+        }
+      ]
+    },
+    {
+      "condition_name": "Polyposis coli",
+      "category": "cancer",
+      "subcategory": "pre_malignant",
+      "status": "resolved",
+      "onset": "March 2017",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 26,
+          "span": "Status post Polypectomy for polyposis coli (minimal dysplasia)"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 32,
+          "span": "Status post Polypectomy for polyposis coli (minimal dysplasia)"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 34,
+          "span": "Status post Polypectomy for polyposis coli (minimal dysplasia)"
+        },
+        {
+          "note_id": "text_4",
+          "line_no": 34,
+          "span": "Status post Polypectomy for polyposis coli (minimal dysplasia)"
+        },
+        {
+          "note_id": "text_5",
+          "line_no": 34,
+          "span": "Status post Polypectomy for polyposis coli (minimal dysplasia)"
+        },
+        {
+          "note_id": "text_6",
+          "line_no": 38,
+          "span": "Status post Polypectomy for polyposis coli (minimal dysplasia)"
+        }
+      ]
+    },
+    {
+      "condition_name": "Hay fever (allergic rhinitis)",
+      "category": "immunological",
+      "subcategory": "allergic",
+      "status": "active",
+      "onset": "March 2017",
+      "evidence": [
+        {
+          "note_id": "text_1",
+          "line_no": 32,
+          "span": "Hay fever"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 38,
+          "span": "Hay fever"
+        },
+        {
+          "note_id": "text_3",
+          "line_no": 40,
+          "span": "Hay fever"
+        }
+      ]
+    },
+    {
+      "condition_name": "Atherosclerosis of the aorta and pelvic vessels",
+      "category": "cardiovascular",
+      "subcategory": "vascular",
+      "status": "active",
+      "onset": "March 2017",
+      "evidence": [
+        {
+          "note_id": "text_2",
+          "line_no": 183,
+          "span": "Atherosclerosis of the aortic arch"
+        },
+        {
+          "note_id": "text_2",
+          "line_no": 198,
+          "span": "Advanced atherosclerosis of the abdominal aorta and pelvic vessels"
+        },
+        {
+          "note_id": "text_5",
+          "line_no": 83,
+          "span": "Calcifying aortic sclerosis"
+        }
+      ]
+    },
+    {
+      "condition_name": "Left ventricular and left atrial enlargement",
+      "category": "cardiovascular",
+      "subcategory": "structural",
+      "status": "active",
+      "onset": "March 2017",
+      "evidence": [
+        {
+          "note_id": "text_2",
+          "line_no": 182,
+          "span": "Heart shows enlargement of the left ventricle and left atrium"
+        }
+      ]
+    },
+    {
+      "condition_name": "Degenerative changes of the hip joints",
+      "category": "musculoskeletal",
+      "subcategory": "degenerative",
+      "status": "active",
+      "onset": "February 2017",
+      "evidence": [
+        {
+          "note_id": "text_0",
+          "line_no": 17,
+          "span": "moderate degenerative changes in the hip joints, more pronounced on the right than on the left"
+        }
+      ]
+    },
+    {
+      "condition_name": "Degenerative changes of the spine",
+      "category": "musculoskeletal",
+      "subcategory": "degenerative",
+      "status": "active",
+      "onset": "March 2017",
+      "evidence": [
+        {
+          "note_id": "text_2",
+          "line_no": 202,
+          "span": "Degenerative changes in the spine"
+        },
+        {
+          "note_id": "text_5",
+          "line_no": 85,
+          "span": "Degenerative changes of the axial skeleton"
+        }
+      ]
+    },
+    {
+      "condition_name": "Hepatic steatosis",
+      "category": "gastrointestinal",
+      "subcategory": "hepatic",
+      "status": "active",
+      "onset": "August 2018",
+      "evidence": [
+        {
+          "note_id": "text_5",
+          "line_no": 84,
+          "span": "Hepatic steatosis"
+        }
+      ]
+    },
+    {
+      "condition_name": "Renal cysts",
+      "category": "renal",
+      "subcategory": "structural",
+      "status": "active",
+      "onset": "March 2017",
+      "evidence": [
+        {
+          "note_id": "text_2",
+          "line_no": 195,
+          "span": "Few renal cysts"
+        },
+        {
+          "note_id": "text_5",
+          "line_no": 84,
+          "span": "Individual renal cysts"
+        }
+      ]
+    },
+    {
+      "condition_name": "Calcified pulmonary granuloma",
+      "category": "infectious",
+      "subcategory": "bacterial",
+      "status": "resolved",
+      "onset": "March 2017",
+      "evidence": [
+        {
+          "note_id": "text_2",
+          "line_no": 179,
+          "span": "Calcified granuloma in the apical right lower lobe"
+        },
+        {
+          "note_id": "text_5",
+          "line_no": 82,
+          "span": "Constant calcified right hilar lymph nodes"
+        }
+      ]
+    },
+    {
+      "condition_name": "Peripheral artery disease with left external iliac artery stenting",
+      "category": "cardiovascular",
+      "subcategory": "vascular",
+      "status": "active",
+      "onset": "March 2017",
+      "evidence": [
+        {
+          "note_id": "text_2",
+          "line_no": 199,
+          "span": "History of stenting of the left external iliac artery with no reocclusion"
+        }
+      ]
+    },
+    {
+      "condition_name": "Pleural effusion, right-sided",
+      "category": "pulmonary",
+      "subcategory": "structural",
+      "status": "resolved",
+      "onset": "March 2017",
+      "evidence": [
+        {
+          "note_id": "text_2",
+          "line_no": 177,
+          "span": "Minimal right-sided pleural effusion"
+        }
+      ]
+    }
+  ]
+}

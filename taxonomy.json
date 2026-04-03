@@ -1,0 +1,194 @@
+{
+  "condition_categories": {
+    "cancer": {
+      "description": "Tumors and cancer-related conditions",
+      "subcategories": {
+        "primary_malignancy": "A primary cancer diagnosis at its site of origin (e.g., melanoma, multiple myeloma, glioblastoma, hepatocellular carcinoma, liposarcoma, pancreatic adenocarcinoma, prostate cancer, squamous cell carcinoma)",
+        "metastasis": "Cancer that has spread from its primary site to another location. Create one entry per metastatic site (e.g., brain metastasis, liver metastasis, bone metastasis, lymph node metastasis)",
+        "pre_malignant": "Abnormal cells or tissue with potential to become cancer (e.g., dysplasia, DCIS, myelodysplastic syndrome, intraepithelial neoplasia). If a pre-malignant condition has progressed to a confirmed malignancy, create both entries: the malignancy as cancer.primary_malignancy, and the precursor as cancer.pre_malignant with status resolved.",
+        "benign": "Benign tumors and neoplasms with no malignant potential (e.g., hemangioma, adenoma, lipoma)",
+        "cancer_of_unknown_primary": "Metastatic cancer where the primary site of origin has not been identified (CUP syndrome)"
+      }
+    },
+    "cardiovascular": {
+      "description": "Conditions affecting the heart, blood vessels, and circulatory system",
+      "subcategories": {
+        "coronary": "Coronary artery disease, myocardial infarction, angina",
+        "hypertensive": "Hypertension and hypertensive organ damage",
+        "rhythm": "Arrhythmias and conduction disorders (e.g., atrial fibrillation, bundle branch block)",
+        "vascular": "Disorders of arteries and veins (e.g., arterial dissection, aneurysm, peripheral vascular disease, varices)",
+        "structural": "Heart valve disorders, cardiomyopathy, congenital heart defects. Does not include heart failure — see disambiguation rules.",
+        "inflammatory_vascular": "Vasculitis and inflammatory vascular disorders (e.g., Takayasu's arteritis, giant cell arteritis, polyarteritis nodosa)"
+      }
+    },
+    "infectious": {
+      "description": "Conditions caused by pathogenic organisms. Categorize by organism type, not by affected organ.",
+      "subcategories": {
+        "bacterial": "Infections caused by bacteria (e.g., pneumonia, sepsis, urosepsis, empyema, urinary tract infection)",
+        "viral": "Infections caused by viruses (e.g., COVID-19, hepatitis)",
+        "fungal": "Infections caused by fungi (e.g., aspergillosis, candidiasis)",
+        "parasitic": "Infections caused by parasites (e.g., malaria, toxoplasmosis, schistosomiasis)",
+        "spirochetal": "Infections caused by spirochetes (e.g., syphilis, Lyme disease, leptospirosis)"
+      }
+    },
+    "metabolic_endocrine": {
+      "description": "Disorders of metabolism, hormones, and endocrine glands",
+      "subcategories": {
+        "diabetes": "Diabetes mellitus (type 1, type 2) and diabetic complications (e.g., diabetic nephropathy, diabetic retinopathy)",
+        "thyroid": "Thyroid disorders (e.g., hypothyroidism, hyperthyroidism)",
+        "genetic_metabolic": "Inherited metabolic disorders (e.g., galactosemia, phenylketonuria)",
+        "nutritional_deficiency": "Vitamin and mineral deficiencies (e.g., vitamin D deficiency, iron deficiency)",
+        "lipid": "Dyslipidemia, hypercholesterolemia, hyperlipoproteinemia",
+        "adrenal": "Adrenal gland disorders (e.g., Addison's disease, Cushing's syndrome, pheochromocytoma)",
+        "pituitary": "Pituitary gland disorders (e.g., acromegaly, prolactinoma, hypopituitarism)"
+      }
+    },
+    "neurological": {
+      "description": "Conditions affecting the brain, spinal cord, and peripheral nervous system",
+      "subcategories": {
+        "cerebrovascular": "Stroke, subarachnoid hemorrhage, transient ischemic attack",
+        "traumatic": "Traumatic brain injury, skull fractures, spinal cord injury",
+        "seizure": "Epilepsy and seizure disorders",
+        "functional": "Aphasia, dysarthria, cognitive deficits, developmental delays, speech disorders",
+        "degenerative": "Progressive neurological diseases (e.g., Parkinson's disease, Huntington's disease, ALS, multiple sclerosis)",
+        "neuromuscular": "Disorders of the neuromuscular junction (e.g., myasthenia gravis, muscular dystrophy)"
+      }
+    },
+    "pulmonary": {
+      "description": "Conditions affecting the lungs and respiratory system",
+      "subcategories": {
+        "obstructive": "COPD, emphysema, bronchial asthma",
+        "acute_respiratory": "ARDS, acute respiratory failure",
+        "structural": "Pneumothorax, pleural effusion, interstitial lung disease, pulmonary fibrosis",
+        "occupational": "Occupational lung diseases (e.g., pneumoconiosis, silicosis, asbestosis)",
+        "cystic": "Cystic and bronchiectatic lung diseases (e.g., cystic fibrosis, bronchiectasis)"
+      }
+    },
+    "gastrointestinal": {
+      "description": "Conditions affecting the digestive system, including liver and pancreas",
+      "subcategories": {
+        "hepatic": "Liver disorders (e.g., cirrhosis, hepatopathy, steatosis, hepatomegaly)",
+        "biliary": "Gallbladder and bile duct disorders (e.g., cholestasis, cholelithiasis)",
+        "upper_gi": "Esophageal and gastric disorders (e.g., reflux esophagitis, gastritis, portal hypertensive gastropathy). Categorize by the affected organ, even if caused by another condition (e.g., portal hypertensive gastropathy goes here, not under hepatic).",
+        "lower_gi": "Intestinal disorders (e.g., diverticulosis, enteropathy, colitis). Categorize by the affected organ, even if caused by another condition (e.g., CVID-associated enteropathy goes here, not under immunological).",
+        "inflammatory_bowel": "Inflammatory bowel disease (e.g., Crohn's disease, ulcerative colitis)",
+        "functional_gi": "Functional gastrointestinal disorders (e.g., irritable bowel syndrome, functional dyspepsia)"
+      }
+    },
+    "renal": {
+      "description": "Conditions affecting the kidneys and urinary tract",
+      "subcategories": {
+        "renal_failure": "Acute or chronic kidney disease, renal insufficiency, transplant dysfunction",
+        "structural": "Nephrolithiasis, hydronephrosis, cystic kidney disease",
+        "glomerular": "Glomerular diseases (e.g., glomerulonephritis, nephrotic syndrome, IgA nephropathy)",
+        "renovascular": "Renal vascular disorders (e.g., renal artery stenosis, renal vein thrombosis)"
+      }
+    },
+    "hematological": {
+      "description": "Conditions affecting blood cells, bone marrow, and coagulation. All low blood cell counts belong here regardless of cause.",
+      "subcategories": {
+        "cytopenia": "Low blood cell counts (e.g., anemia, thrombocytopenia, pancytopenia, lymphocytopenia, neutropenia) — regardless of whether the cause is treatment, disease, or idiopathic",
+        "coagulation": "Bleeding and clotting disorders (e.g., hemophilia, von Willebrand disease, disseminated intravascular coagulation)",
+        "hemoglobinopathy": "Disorders of hemoglobin structure or production (e.g., sickle cell disease, thalassemia)"
+      }
+    },
+    "immunological": {
+      "description": "Conditions of the immune system",
+      "subcategories": {
+        "immunodeficiency": "Congenital or acquired immune defects (e.g., CVID, IgG deficiency, IgM deficiency, IgA deficiency)",
+        "allergic": "Allergic and hypersensitivity reactions (e.g., allergic rhinitis, drug/contrast allergies, anaphylaxis)",
+        "autoimmune": "Autoimmune conditions (e.g., immune thrombocytopenic purpura, pemphigus vulgaris)",
+        "autoinflammatory": "Autoinflammatory syndromes (e.g., familial Mediterranean fever, Behcet's disease, TRAPS)",
+        "complement_deficiency": "Complement system deficiencies (e.g., C1-C9 complement deficiencies, hereditary angioedema)"
+      }
+    },
+    "musculoskeletal": {
+      "description": "Conditions affecting bones, joints, and connective tissue",
+      "subcategories": {
+        "fracture": "Bone fractures (traumatic, pathologic, stress). Osteolytic bone destruction from cancer belongs in cancer.metastasis, not here.",
+        "degenerative": "Degenerative bone and joint conditions (e.g., osteoporosis, osteopenia, osteoarthritis)",
+        "crystal_arthropathy": "Crystal deposition joint diseases (e.g., gout, pseudogout, CPPD disease)",
+        "connective_tissue_disorder": "Hereditary connective tissue disorders (e.g., Marfan syndrome, Ehlers-Danlos syndrome, osteogenesis imperfecta)"
+      }
+    },
+    "toxicological": {
+      "description": "Conditions caused by poisoning, toxic exposures, or environmental hazards",
+      "subcategories": {
+        "poisoning": "Drug overdose, chemical poisoning, toxic ingestion (e.g., acetaminophen overdose, organophosphate poisoning)",
+        "environmental_exposure": "Environmental and occupational toxic exposures (e.g., lead poisoning, mercury poisoning, radiation sickness)"
+      }
+    },
+    "dental_oral": {
+      "description": "Conditions affecting the teeth, gums, and oral cavity (excluding oral cancers)",
+      "subcategories": {
+        "dental": "Dental conditions (e.g., dental caries, periodontal disease, tooth abscess)",
+        "temporomandibular": "Temporomandibular joint disorders (e.g., TMJ dysfunction, jaw ankylosis)"
+      }
+    }
+  },
+  "status_values": {
+    "active": {
+      "description": "Confirmed and currently present — whether newly diagnosed, chronic, worsening, or recurrent",
+      "signals": [
+        "Appears in 'Diagnoses' or 'Other Diagnoses' section",
+        "current treatment mentioned",
+        "ongoing management",
+        "long-standing condition",
+        "progressive or worsening",
+        "recurrent"
+      ]
+    },
+    "resolved": {
+      "description": "No longer present — either treated successfully, in remission, or a past event documented for context",
+      "signals": [
+        "resolved",
+        "cleared",
+        "in remission",
+        "complete response",
+        "no evidence of disease",
+        "status post",
+        "history of",
+        "appears only in 'Medical History' section"
+      ]
+    },
+    "suspected": {
+      "description": "Not yet diagnostically confirmed",
+      "signals": [
+        "suspected",
+        "suspicion of",
+        "suggestive of",
+        "rule out",
+        "possible",
+        "likely"
+      ]
+    }
+  },
+  "date_format": {
+    "full": "16 March 2026",
+    "month_year": "March 2014",
+    "year_only": "2014",
+    "unknown": null,
+    "onset_rules": [
+      "Use the earliest date the condition is explicitly documented — by name or by a clearly equivalent clinical description.",
+      "Priority 1 — Stated date: If the notes give a specific date for the condition (e.g., 'first diagnosis of chronic lymphocytic leukemia: 03/2021', 'cholecystectomy in 2015'), use that date.",
+      "Priority 2 — Note date: If no date is explicitly stated, use the encounter date of the earliest note where the condition is named or described.",
+      "Do not infer across conditions: A symptom's onset date does not set the onset of a different underlying condition (e.g., 'fatigue since March' does not establish the onset of a later-diagnosed thyroid disorder).",
+      "Relative dates: Convert relative references to absolute dates using the note's context (e.g., 'since mid-December' in a January 2017 note → 'December 2016')."
+    ]
+  },
+  "disambiguation_rules": [
+    {
+      "rule": "Heart failure is categorized by its underlying cause, not as cardiovascular.structural",
+      "explanation": "Heart failure (CHF) is a consequence of other cardiovascular conditions. Assign it to the subcategory of its cause: ischemic cardiomyopathy from CAD → cardiovascular.coronary, hypertensive heart failure → cardiovascular.hypertensive. If the cause is a primary myocardial disease (e.g., dilated cardiomyopathy, HCV-related cardiomyopathy), then it belongs in cardiovascular.structural. If the cause is unknown, use cardiovascular.structural."
+    },
+    {
+      "rule": "Diabetic complications are categorized under metabolic_endocrine.diabetes, not under the affected organ's category",
+      "explanation": "Diabetic complications affecting a specific organ (e.g., diabetic nephropathy, diabetic retinopathy) belong under metabolic_endocrine.diabetes, not under the affected organ's category (e.g., not renal or neurological)."
+    }
+  ],
+  "notes": [
+    "One entry per distinct condition. If the same condition affects multiple anatomical sites, create a separate entry for each site (e.g., brain metastasis and liver metastasis are two entries; IgG deficiency and IgM deficiency are two entries).",
+    "When a condition evolves in status across notes, report the latest status. The evidence array should span all notes where the condition appears.",
+    "Only extract conditions that are in the taxonomy."
+  ]
+}
