@@ -1,18 +1,5 @@
 #!/usr/bin/env python3
-"""
-Clinical Condition Extraction Pipeline — Main Entrypoint
 
-Extracts structured condition summaries from longitudinal patient clinical notes
-using a two-stage LLM pipeline.
-
-Required environment variables:
-  OPENAI_API_KEY   — API key (e.g., Groq API key)
-  OPENAI_BASE_URL  — API base URL (e.g., https://api.groq.com/openai/v1)
-  OPENAI_MODEL     — Model identifier (e.g., llama-3.3-70b-versatile)
-
-Usage:
-  python main.py --data-dir ./train --patient-list ./patients.json --output-dir ./output
-"""
 
 import argparse
 import json
