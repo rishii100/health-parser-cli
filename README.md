@@ -1,4 +1,4 @@
-# Longitudinal Health Parser: Final Report
+# Longitudinal Health Parser
 
 ## 1. Approach and Design Decisions
 
