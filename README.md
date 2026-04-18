@@ -1,4 +1,4 @@
-# Longitudinal Health Parser
+# Health Parser CLI
 
 ## 1. Approach and Design Decisions
 
