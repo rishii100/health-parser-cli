@@ -68,7 +68,7 @@ pip install -r requirements.txt
 # Set API config
 export OPENAI_BASE_URL="https://api.groq.com/openai/v1"
 export OPENAI_API_KEY="your_api_key_here"
-export OPENAI_MODEL="llama-3.3-70b-versatile"
+export OPENAI_MODEL="openai/gpt-oss-120b"
 ```
 
 ### Running the Pipeline
